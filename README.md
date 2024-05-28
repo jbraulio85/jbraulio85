@@ -1,8 +1,8 @@
-<h1>- 👋 Hi, I’m Braulio Echeverria </h1> 
-<h1>- 👀 I’m interested in learn somthing new every day...</h1>
-<h1>- 🌱 I’m FullStack JAVA & .NET...</h1>  
-<h1>- 💞️ I’m looking to collaborate on fullstack project...</h1>
-<h1>- 📫 How to reach me email: braulioecheverria@kinal.org.gt...</h1>
+<h1>- 👋 Hi, I’m Braulio Echeverria </h2> 
+<h2>- 👀 I’m interested in learn somthing new every day...</h2>
+<h2>- 🌱 I’m FullStack JAVA & .NET...</h2>  
+<h2>- 💞️ I’m looking to collaborate on fullstack project...</h2>
+<h2>- 📫 How to reach me email: braulioecheverria@kinal.org.gt...</h2>
 <p>A passionate fullstack developer from Guatemala 🟦⬜🟦</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
